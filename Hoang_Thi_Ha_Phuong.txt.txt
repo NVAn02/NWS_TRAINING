@@ -1,4 +1,5 @@
-Name: Hoang Thi Ha Phuong
-Age: 21
-Address: Hanoi
-hehehe
+Ten: Hoang Thi Ha Phuong
+Tuoi: 21
+Dia chi: Chua Lang, Phuong Lang Dong Da
+hehe
+
